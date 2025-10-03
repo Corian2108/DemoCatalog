@@ -1,0 +1,62 @@
+[
+    {
+    "img": "assets/products/product1.jpg",
+    "name": "Gemma",
+    "description": "CUBRELECHOS DOBLE FAZ TIPO ESPAÑOL DELGADOS FACIL LAVADO Y SECADO EN CASA",
+    "price": "COP 1,250,000.00",
+    "discount": false,
+    "discountAmount": 0,
+    "message":"Hola estoy interesado en ",
+    "type": "Cobija"
+},
+    {
+    "img": "assets/products/product2.jpg",
+    "name": "Gemma",
+    "description": "CUBRELECHOS DOBLE FAZ TIPO ESPAÑOL DELGADOS FACIL LAVADO Y SECADO EN CASA",
+    "price": "COP 1,250,000.00",
+    "discount": false,
+    "discountAmount": 0,
+    "message":"Hola estoy interesado en ",
+    "type": "Cobija"
+},
+    {
+    "img": "assets/products/product3.jpg",
+    "name": "Gemma",
+    "description": "CUBRELECHOS DOBLE FAZ TIPO ESPAÑOL DELGADOS FACIL LAVADO Y SECADO EN CASA",
+    "price": "COP 1,250,000.00",
+    "discount": false,
+    "discountAmount": 0,
+    "message":"Hola estoy interesado en ",
+    "type": "Cobija"
+},
+    {
+    "img": "assets/products/product4.jpg",
+    "name": "Gemma",
+    "description": "CUBRELECHOS DOBLE FAZ TIPO ESPAÑOL DELGADOS FACIL LAVADO Y SECADO EN CASA",
+    "price": "COP 1,250,000.00",
+    "discount": false,
+    "discountAmount": 0,
+    "message":"Hola estoy interesado en ",
+    "type": "Cobija"
+},
+    {
+    "img": "assets/products/product5.jpg",
+    "name": "Gemma",
+    "description": "CUBRELECHOS DOBLE FAZ TIPO ESPAÑOL DELGADOS FACIL LAVADO Y SECADO EN CASA",
+    "price": "COP 1,250,000.00",
+    "discount": false,
+    "discountAmount": 0,
+    "message":"Hola estoy interesado en ",
+    "type": "Cobija"
+},
+    {
+    "img": "assets/products/product6.jpg",
+    "name": "Gemma",
+    "description": "CUBRELECHOS DOBLE FAZ TIPO ESPAÑOL DELGADOS FACIL LAVADO Y SECADO EN CASA",
+    "price": "COP 1,250,000.00",
+    "discount": false,
+    "discountAmount": 0,
+    "message":"Hola estoy interesado en ",
+    "type": "Cobija"
+}
+]

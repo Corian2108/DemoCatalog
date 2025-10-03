@@ -1,0 +1,15 @@
+.logo {
+  max-width: 9%;
+}
+
+.navbar {
+  justify-content: flex-end;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.align {
+  display: contents;
+}
